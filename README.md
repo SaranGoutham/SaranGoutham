@@ -29,5 +29,5 @@ I love learning and building things with **Computer Science, AI, Cloud Technolog
 
 # Connect with Me
 - 📫 Email: *sarangoutham2@gmail.com*  
-- 💼 LinkedIn: <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="sontiyala-saran-goutham" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/sontiyala-saran-goutham?trk=profile-badge">Saran Goutham Sontiyala</a></div>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="sontiyala-saran-goutham" data-version="v1">- 💼 LinkedIn: <a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/sontiyala-saran-goutham?trk=profile-badge">Saran Goutham Sontiyala</a></div>
               
