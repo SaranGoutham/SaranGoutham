@@ -1,16 +1,27 @@
 ## Hi there 👋
+I'm Saran Goutham
 
-<!--
-**SaranGoutham/SaranGoutham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# About Me
+I love cars.
 
-Here are some ideas to get you started:
+# Stats
+![Trophy](https://github-profile-trophy.vercel.app/?username=SaranGoutham&theme=onedark)
+![Streaks](https://github-readme-streak-stats.herokuapp.com?user=SaranGoutham&theme=onedark)
+![README stats](https://github-readme-stats.vercel.app/api?username=SaranGoutham&layout=compact&count_private=true&show_icons=true&include_all_commits=true&theme=onedark)
+![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaranGoutham&layout=compact&langs_count=10&theme=onedark)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<!-- # Some notable repos
+[![kake](https://github-readme-stats.vercel.app/api/pin/?username=kakeapp&repo=kake&show_owner=true&theme=onedark)](https://github.com/kakeapp/kake)
+[![godns](https://github-readme-stats.vercel.app/api/pin/?username=NrdyBhu1&repo=godns&show_owner=true&theme=onedark)](https://github.com/NrdyBhu1/godns)
+[![Atlas-Jekyll-Theme](https://github-readme-stats.vercel.app/api/pin/?username=NrdyBhu1&repo=atlas-jekyll-theme&show_owner=true&theme=onedark)](https://github.com/NrdyBhu1/atlas-jekyll-theme)
+[![Urlon](https://github-readme-stats.vercel.app/api/pin/?username=NrdyBhu1&repo=urlon&show_owner=true&theme=onedark)](https://github.com/NrdyBhu1/urlon)
+
+# Some Contributions
+[![COGE](https://github-readme-stats.vercel.app/api/pin/?username=NrdyBhu1&repo=COGE&show_owner=true&theme=onedark)](https://github.com/NrdyBhu1/COGE)
+[![BFZip](https://github-readme-stats.vercel.app/api/pin/?username=NrdyBhu1&repo=BFZip&show_owner=true&theme=onedark)](https://github.com/NrdyBhu1/BFZip)
+[![PYMon](https://github-readme-stats.vercel.app/api/pin/?username=NrdyBhu1&repo=py-mon&show_owner=true&theme=onedark)](https://github.com/NrdyBhu1/py-mon)
+[![The2020CoderBot](https://github-readme-stats.vercel.app/api/pin/?username=NrdyBhu1&repo=The2020CoderBot&show_owner=true&theme=onedark)](https://github.com/NrdyBhu1/The2020CoderBot)
+
+# My dotfiles
+[![DotFiles](https://github-readme-stats.vercel.app/api/pin/?username=NrdyBhu1&repo=dotfiles&show_owner=true&theme=onedark)](https://github.com/NrdyBhu1/dotfiles) -->
