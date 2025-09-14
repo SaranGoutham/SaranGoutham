@@ -12,7 +12,7 @@ I love cars.
 
 
  # Some notable repos
-[![Birthday_wishes](https://github-readme-stats.vercel.app/api/pin/?username=SaranGoutham&repo=Birthday_wishes&show_owner=true&theme=onedark)](https://github.com/kakeapp/kake)
+[![Birthday_wishes](https://github-readme-stats.vercel.app/api/pin/?username=SaranGoutham&repo=Birthday_wishes&show_owner=true&theme=onedark)](https://github.com/SaranGoutham/Birthday_wishes)
 <!--[![godns](https://github-readme-stats.vercel.app/api/pin/?username=NrdyBhu1&repo=godns&show_owner=true&theme=onedark)](https://github.com/NrdyBhu1/godns)
 [![Atlas-Jekyll-Theme](https://github-readme-stats.vercel.app/api/pin/?username=NrdyBhu1&repo=atlas-jekyll-theme&show_owner=true&theme=onedark)](https://github.com/NrdyBhu1/atlas-jekyll-theme)
 [![Urlon](https://github-readme-stats.vercel.app/api/pin/?username=NrdyBhu1&repo=urlon&show_owner=true&theme=onedark)](https://github.com/NrdyBhu1/urlon)
