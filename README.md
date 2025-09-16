@@ -6,7 +6,7 @@ I love learning and building things with **Computer Science, AI, Cloud Technolog
 
 # Stats
 ![Trophy](https://github-profile-trophy.vercel.app/?username=SaranGoutham&theme=onedark)
-![Streaks](https://github-readme-streak-stats.herokuapp.com?user=SaranGoutham&theme=onedark)
+![Streaks](https://github-readme-streak-stats.herokuapp.com?username=SaranGoutham&theme=onedark)
 ![README stats](https://github-readme-stats.vercel.app/api?username=SaranGoutham&layout=compact&count_private=true&show_icons=true&include_all_commits=true&theme=onedark)
 ![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaranGoutham&layout=compact&langs_count=10&theme=onedark)
 
