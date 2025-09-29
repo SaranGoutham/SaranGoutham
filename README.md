@@ -17,7 +17,7 @@ I love learning and building things with **Computer Science, AI, Cloud Technolog
 [![BirthDay-Mail-Automation](https://github-readme-stats.vercel.app/api/pin/?username=SaranGoutham&repo=BirthDay-Mail-Automation&show_owner=true&theme=onedark)](https://github.com/SaranGoutham/BirthDay-Mail-Automation)
 [![TS](https://github-readme-stats.vercel.app/api/pin/?username=SaranGoutham&repo=TS&show_owner=true&theme=onedark)](https://github.com/SaranGoutham/TS)
 [![Birthday_wishes](https://github-readme-stats.vercel.app/api/pin/?username=SaranGoutham&repo=Birthday_wishes&show_owner=true&theme=onedark)](https://github.com/SaranGoutham/Birthday_wishes)
-
+[![SS_BR](https://github-readme-stats.vercel.app/api/pin/?username=SaranGoutham&repo=SS_BR&show_owner=true&theme=onedark)](https://github.com/SaranGoutham/SS_BR)
 
 <!--[![godns](https://github-readme-stats.vercel.app/api/pin/?username=NrdyBhu1&repo=godns&show_owner=true&theme=onedark)](https://github.com/NrdyBhu1/godns)
 
