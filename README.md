@@ -16,7 +16,7 @@
 
 ⚡ **Fun Fact:** I believe in the power of automation to make life easier - why do it manually when you can code it! 🤖
 
-<!-- ```javascript
+```javascript
 const saranGoutham = {
     location: "India 🇮🇳",
     currentFocus: ["Artificial Intelligence", "Cloud Technologies", "Full Stack Development"],
@@ -31,7 +31,7 @@ const saranGoutham = {
     currentlyLearning: "Advanced AI/ML Concepts & Cloud Architecture",
     funFact: "I love automating boring stuff! 🤖"
 };
-``` -->
+```
 
 
 
