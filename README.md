@@ -81,7 +81,7 @@ const saranGoutham = {
 [![BirthDay-Mail-Automation](https://github-readme-stats.vercel.app/api/pin/?username=SaranGoutham&repo=BirthDay-Mail-Automation&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/SaranGoutham/BirthDay-Mail-Automation)
 
 [![TS](https://github-readme-stats.vercel.app/api/pin/?username=SaranGoutham&repo=TS&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/SaranGoutham/TS)
-[![Birthday_wishes](https://github-readme-stats.vercel.app/api/pin/?username=SaranGoutham&repo=Birthday_wishes&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/SaranGoutham/Birthday_wishes)
+[![Price_Prediction_MultiModol](https://github-readme-stats.vercel.app/api/pin/?username=SaranGoutham&repo=Price_Prediction_MultiModol&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/SaranGoutham/Price_Prediction_MultiModol)
 
 </div>
 
